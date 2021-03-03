@@ -1,3 +1,3 @@
 # BackgroundAnimation
 
-it's just a work on Html and Css, a video bacground
+it's just a work on Html and Css, a video background
